@@ -1,0 +1,8 @@
+Usuario = 'martin.lafon@mail.com'
+Pasw = "primer_usu_12345"
+
+Usuario = 'nelly.balbi@mail.com'
+Pasw = "segundo_usu_12345" 
+
+Usuario = 'ricardo.cardona@mail.com'
+Pasw = "tercer_usu_12345"
